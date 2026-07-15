@@ -1,89 +1,75 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=32&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mostafa+%F0%9F%91%8B;CS+Student+%F0%9F%8E%93;Learning+AI+%2F+ML+%F0%9F%A4%96;Building+RAG+Projects+%F0%9F%9A%80" alt="Typing SVG" />
+# Mostafa Heikal
 
-<br/>
+**Computer Science Student — Focused on NLP & Applied AI**
 
-<img src="https://img.shields.io/badge/📍_Egypt-Damanhour_University-F97316?style=flat-square&labelColor=1a1a1a" />
-<img src="https://img.shields.io/badge/🎯_Focus-AI_%26_LLMs-EAB308?style=flat-square&labelColor=1a1a1a" />
-<img src="https://img.shields.io/badge/☕_Status-Always_Learning-22C55E?style=flat-square&labelColor=1a1a1a" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mostafa-heikal/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mostafaheikal101@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MostafaHikal)
 
 </div>
 
 <br/>
 
-## 👋 A bit about me
+## About
 
-I'm a Computer Science student who'd rather **build something small and real** than just read about it. That's how most of what I know happened — a WPF internship taught me more C# than any course, and building an actual RAG chatbot taught me more about LLMs than any tutorial.
+Computer Science student at Damanhour University with a focus on **Natural Language Processing and applied AI**. I work primarily with Python, and I'm building practical experience with LLM-based systems — most notably a Retrieval-Augmented Generation (RAG) application combining vector search with structured data retrieval.
 
-Right now I'm deep in **Generative AI and Retrieval-Augmented Generation**, figuring out how to make LLM-based apps that actually hold up when you poke at them.
-
-<br/>
-
-## 🧭 My path so far
-
-```
-2026 ─┬─ 🎓  Studying Computer Science @ Damanhour University
-      │
-      ├─ 💻  Software Internship @ 1SRO — learned WPF & C# hands-on
-      │
-      ├─ 📊  Machine Learning for Data Analysis — NTI
-      │
-      ├─ 🤖  Generative AI (Beginner) — NVIDIA DLI / ITI
-      │
-      ├─ 🚀  Generative AI Advanced — RAG Agents & LLMs — NVIDIA DLI / ITI
-      │
-      └─ 🛠️  Built UniGuide — my first real RAG project
-```
+Background also includes a software internship working with C# and WPF, giving me a grounding in OOP and applied software engineering alongside the AI-focused work.
 
 <br/>
 
-## 🛠️ What I build with
+## NLP & AI Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,csharp,dotnet,sql,git,github&theme=dark" />
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&labelColor=1a1a1a)
+![FAISS](https://img.shields.io/badge/FAISS-4A90D9?style=for-the-badge&labelColor=1a1a1a)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&labelColor=1a1a1a)
+![RAG](https://img.shields.io/badge/RAG-6366F1?style=for-the-badge&labelColor=1a1a1a)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-10B981?style=for-the-badge&labelColor=1a1a1a)
 
 </div>
 
 <br/>
 
-## 🌱 Currently exploring
+## Core Stack
 
-| Area | What I'm doing about it |
-|---|---|
-| 🔎 Retrieval-Augmented Generation | Built a working RAG + structured-retrieval chatbot end to end |
-| 🧩 Prompt Engineering | Applying it in real pipelines, not just playgrounds |
-| 🐍 Python for AI | LangChain, embeddings, vector search |
-| 📐 CS Fundamentals | OOP, data structures & algorithms — the boring stuff that actually matters |
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql,git,github&theme=dark" />
+
+</div>
 
 <br/>
 
-## 🎓 Featured project
+## Training
+
+- **Machine Learning for Data Analysis** — National Telecommunication Institute (NTI)
+- **Generative AI, Beginner Level** — NVIDIA DLI Summer Training (ITI)
+- **Generative AI, Advanced Level — RAG Agents & LLMs** — NVIDIA DLI Summer Training (ITI)
+
+<br/>
+
+## Featured Project
 
 <a href="https://github.com/MostafaHikal/UniGuide">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=MostafaHikal&repo=UniGuide&theme=dark&hide_border=true&bg_color=1a1a1a&title_color=F97316&text_color=c9d1d9" />
 </a>
 
-An AI university assistant that answers questions about schedules, exams, and college info — combining RAG over PDFs (FAISS + Groq) with structured JSON retrieval, and an OCR/Vision pipeline for ingesting new documents.
+**UniGuide** — An AI university assistant answering questions about schedules, exams, and college information. Combines RAG over PDF documents (FAISS + Groq) with structured JSON retrieval, plus an OCR/Vision ingestion pipeline for processing new documents and images.
+
+`Python` `LangChain` `FAISS` `Groq` `Gradio` `OCR`
 
 <br/>
 
-## 📈 GitHub activity
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MostafaHikal&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a1a&title_color=F97316&icon_color=EAB308&text_color=c9d1d9" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MostafaHikal&theme=radical&hide_border=true&background=1a1a1a&ring=F97316&fire=EAB308&currStreakLabel=F97316" height="160"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-**Let's connect** — [LinkedIn](https://www.linkedin.com/in/mostafa-heikal/) · [Email](mailto:mostafaheikal101@gmail.com)
-
-<sub>Still learning, still building — check back later, this profile grows with me 🌱</sub>
+<img src="https://github-readme-stats.vercel.app/api?username=MostafaHikal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a1a&title_color=F97316&icon_color=F97316&text_color=c9d1d9" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MostafaHikal&theme=tokyonight&hide_border=true&background=1a1a1a&ring=F97316&fire=F97316&currStreakLabel=F97316" height="160"/>
 
 </div>
