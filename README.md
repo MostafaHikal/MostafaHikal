@@ -1,90 +1,89 @@
-[![](https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:1a1a2e,60:16fbeb,100:58a6ff&height=250&section=header&text=Mostafa%20Heikal&fontSize=48&fontColor=FFFFFF&fontAlignY=42&desc=Computer%20Science%20Student%20%7C%20Aspiring%20AI%2FML%20Developer&descSize=18&descAlignY=62&animation=fadeIn&stroke=1f6feb&strokeWidth=2)](https://github.com/MostafaHikal)
+<div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_GitHub-MostafaHikal-161b22?style=for-the-badge&logo=github&logoColor=58a6ff&labelColor=161b22&color=161b22)](https://github.com/MostafaHikal)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22&color=0A66C2)](https://www.linkedin.com/in/mostafa-heikal/)
-[![Email](https://img.shields.io/badge/📧_Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161b22&color=D14836)](mailto:mostafaheikal101@gmail.com)
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=32&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mostafa+%F0%9F%91%8B;CS+Student+%F0%9F%8E%93;Learning+AI+%2F+ML+%F0%9F%A4%96;Building+RAG+Projects+%F0%9F%9A%80" alt="Typing SVG" />
 
----
+<br/>
 
-## `$ whoami`
+<img src="https://img.shields.io/badge/📍_Egypt-Damanhour_University-F97316?style=flat-square&labelColor=1a1a1a" />
+<img src="https://img.shields.io/badge/🎯_Focus-AI_%26_LLMs-EAB308?style=flat-square&labelColor=1a1a1a" />
+<img src="https://img.shields.io/badge/☕_Status-Always_Learning-22C55E?style=flat-square&labelColor=1a1a1a" />
 
-Computer Science student at **Damanhour University**, building a foundation in **C++ and Python** and steadily moving toward **AI & Machine Learning**.
+</div>
 
-I like turning what I learn into working projects rather than leaving it in notes — most recently a **RAG-based university assistant chatbot**, built while learning about retrieval pipelines and LLM integration.
+<br/>
 
-Currently deepening my knowledge of **Generative AI, Retrieval-Augmented Generation, and LLM-powered applications**, one project at a time.
+## 👋 A bit about me
 
----
+I'm a Computer Science student who'd rather **build something small and real** than just read about it. That's how most of what I know happened — a WPF internship taught me more C# than any course, and building an actual RAG chatbot taught me more about LLMs than any tutorial.
 
-## `$ cat focus_areas.txt`
+Right now I'm deep in **Generative AI and Retrieval-Augmented Generation**, figuring out how to make LLM-based apps that actually hold up when you poke at them.
+
+<br/>
+
+## 🧭 My path so far
 
 ```
-┌──────────────────────────────────────────────────────────────────────┐
-│                                                                        │
-│   AI & LLMs          →  RAG pipelines · Prompt Engineering             │
-│                         LLM integration · Vector search                │
-│                                                                        │
-│   SOFTWARE DEV        →  C++ · Python · OOP                            │
-│                         Data Structures & Algorithms                   │
-│                                                                        │
-│   DESKTOP APPS         →  C# · WPF · UI/Logic integration              │
-│                                                                        │
-│   DATABASES            →  SQL fundamentals · Queries · Relationships   │
-│                                                                        │
-│   MINDSET               →  Problem-solving · Continuous learning       │
-│                                                                        │
-└──────────────────────────────────────────────────────────────────────┘
+2026 ─┬─ 🎓  Studying Computer Science @ Damanhour University
+      │
+      ├─ 💻  Software Internship @ 1SRO — learned WPF & C# hands-on
+      │
+      ├─ 📊  Machine Learning for Data Analysis — NTI
+      │
+      ├─ 🤖  Generative AI (Beginner) — NVIDIA DLI / ITI
+      │
+      ├─ 🚀  Generative AI Advanced — RAG Agents & LLMs — NVIDIA DLI / ITI
+      │
+      └─ 🛠️  Built UniGuide — my first real RAG project
 ```
 
----
+<br/>
 
-## `$ ls ./stack`
+## 🛠️ What I build with
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,csharp,dotnet,sql,git,github,vscode" />
-</p>
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=python,cpp,csharp,dotnet,sql,git,github&theme=dark" />
 
-## `$ ls ./training`
+</div>
 
-- 🧠 **Machine Learning for Data Analysis** — National Telecommunication Institute (NTI)
-- 🤖 **Generative AI, Beginner Level** — NVIDIA DLI Summer Training (ITI)
-- 🚀 **Generative AI, Advanced Level (RAG Agents & LLMs)** — NVIDIA DLI Summer Training (ITI)
+<br/>
 
----
+## 🌱 Currently exploring
 
-## `$ ls ./projects`
+| Area | What I'm doing about it |
+|---|---|
+| 🔎 Retrieval-Augmented Generation | Built a working RAG + structured-retrieval chatbot end to end |
+| 🧩 Prompt Engineering | Applying it in real pipelines, not just playgrounds |
+| 🐍 Python for AI | LangChain, embeddings, vector search |
+| 📐 CS Fundamentals | OOP, data structures & algorithms — the boring stuff that actually matters |
 
-### 🎓 [UniGuide](https://github.com/MostafaHikal/UniGuide)
-An AI-powered university assistant chatbot that answers questions about college info, lecture schedules, and exam timetables — combining **RAG** (FAISS + Groq) with **structured JSON retrieval**, plus an OCR/Vision ingestion pipeline for PDFs and images.
+<br/>
 
-`Python` `LangChain` `FAISS` `Groq` `Gradio` `OCR`
+## 🎓 Featured project
 
----
+<a href="https://github.com/MostafaHikal/UniGuide">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MostafaHikal&repo=UniGuide&theme=dark&hide_border=true&bg_color=1a1a1a&title_color=F97316&text_color=c9d1d9" />
+</a>
 
-## `$ git log --oneline`
+An AI university assistant that answers questions about schedules, exams, and college info — combining RAG over PDFs (FAISS + Groq) with structured JSON retrieval, and an OCR/Vision pipeline for ingesting new documents.
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MostafaHikal&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MostafaHikal&theme=github-dark-blue&hide_border=true&background=0d1117" height="165"/>
-</p>
+<br/>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaHikal&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165"/>
-</p>
+## 📈 GitHub activity
 
----
+<div align="center">
 
-## `$ ./contribution --graph`
+<img src="https://github-readme-stats.vercel.app/api?username=MostafaHikal&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a1a&title_color=F97316&icon_color=EAB308&text_color=c9d1d9" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MostafaHikal&theme=radical&hide_border=true&background=1a1a1a&ring=F97316&fire=EAB308&currStreakLabel=F97316" height="160"/>
 
-![Snake animation](https://raw.githubusercontent.com/MostafaHikal/MostafaHikal/output/github-contribution-grid-snake-dark.svg)
+</div>
 
----
+<br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/status-learning_%26_building-58a6ff?style=flat-square&labelColor=161b22" />
-  <img src="https://img.shields.io/badge/next_goal-AI%2FML_Engineer-16fbeb?style=flat-square&labelColor=161b22" />
-</p>
+<div align="center">
 
-[![](https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:16fbeb&height=100&section=footer)](https://github.com/MostafaHikal)
+**Let's connect** — [LinkedIn](https://www.linkedin.com/in/mostafa-heikal/) · [Email](mailto:mostafaheikal101@gmail.com)
+
+<sub>Still learning, still building — check back later, this profile grows with me 🌱</sub>
+
+</div>
