@@ -16,12 +16,9 @@
 
 <div align="center">
 
-| | |
-|---|---|
-| 🟢 **Status** | Online |
-| 🎯 **Role** | Machine Learning Engineer |
-| 🧠 **Current Focus** | Natural Language Processing · LLMs · RAG Pipelines |
-| 🚀 **Next Launch** | Open to internships & collaborative projects |
+| Status | Role | Current Focus | Next Launch |
+|:---:|:---:|:---:|:---:|
+| Online | Machine Learning Engineer | NLP · LLMs · RAG Pipelines | Open to internships & collaborations |
 
 </div>
 
