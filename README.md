@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=egg&color=0:0D1117,50:16213E,100:2563EB&height=150&text=Mostafa%20Heikal&fontSize=34&fontColor=E8EEF7&animation=fadeIn&fontAlignY=55" width="550"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0D1117,50:16213E,100:2563EB&height=170&text=Mostafa%20Heikal&fontSize=46&fontColor=E8EEF7&animation=fadeIn&fontAlignY=65&stroke=2563EB&strokeWidth=2" width="650"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=90&lines=Machine+Learning+Engineer;NLP+%7C+LLMs+%7C+RAG+Systems;Building+Reliable+AI+Pipelines" alt="Typing SVG" />
 
@@ -33,6 +33,27 @@ I'm a Machine Learning Engineer building a strong base in **C++** and **Python**
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,mysql,pytorch,tensorflow,git,github,vscode&theme=dark" />
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=cpp" width="48"/><br><sub><b>C++</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=python" width="48"/><br><sub><b>Python</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=postgres" width="48"/><br><sub><b>SQL</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=git" width="48"/><br><sub><b>Git</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=github" width="48"/><br><sub><b>GitHub</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=vscode" width="48"/><br><sub><b>VS Code</b></sub>
+</td>
+</tr>
+</table>
 
 </div>
