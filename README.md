@@ -22,7 +22,7 @@
 
 </div>
 
-I'm a Machine Learning Engineer building a strong base in **C++** and **Python**, currently steering everything I learn toward **NLP and language-model systems** — from prompt design to retrieval-augmented pipelines. I like taking a model from "it kind of works" to "it holds up."
+I'm a Machine Learning Engineer focused on Natural Language Processing and large language models. My work centers on prompt engineering, retrieval-augmented generation, and building language systems that hold up beyond the prototype stage.
 
 <br>
 
