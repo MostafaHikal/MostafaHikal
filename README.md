@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:0D0D0D&height=220&section=header&text=Mostafa%20Heikal&fontSize=52&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=NLP%20%26%20Machine%20Learning%20Explorer&descAlignY=58&descSize=20&descColor=BFEFFF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:0D0D0D&height=220&section=header&text=Mostafa%20Heikal&fontSize=52&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Machine%20Learning%20Engineer&descAlignY=58&descSize=20&descColor=BFEFFF" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=640&lines=Computer+Science+Student+%40+Damanhour+University;Exploring+NLP+%2B+LLMs+%2B+RAG+Systems;Turning+Raw+Text+Into+Signal+%F0%9F%9F%A0;Status%3A+Currently+Training+a+New+Model..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=640&lines=Machine+Learning+Engineer;Exploring+NLP+%2B+LLMs+%2B+RAG+Systems;Turning+Raw+Text+Into+Signal+%F0%9F%9F%A0;Status%3A+Currently+Training+a+New+Model..." alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00B4D8?style=for-the-badge&logo=linkedin&logoColor=0D0D0D)](https://www.linkedin.com/in/mostafa-heikal/)
 [![GitHub](https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=00B4D8)](https://github.com/MostafaHikal)
@@ -16,13 +16,12 @@
 
 ```
 STATUS        : Online
-ROLE          : Computer Science Student · Developer in Training
+ROLE          : Machine Learning Engineer
 CURRENT FOCUS : Natural Language Processing · LLMs · RAG Pipelines
-BASE          : Damanhour University, Egypt
 NEXT LAUNCH   : Open to internships & collaborative projects
 ```
 
-I'm a CS student building a strong base in **C++** and **Python**, currently steering everything I learn toward **NLP and language-model systems** — from prompt design to retrieval-augmented pipelines. I like taking a model from "it kind of works" to "it holds up."
+I'm a Machine Learning Engineer building a strong base in **C++** and **Python**, currently steering everything I learn toward **NLP and language-model systems** — from prompt design to retrieval-augmented pipelines. I like taking a model from "it kind of works" to "it holds up."
 
 <br>
 
@@ -66,11 +65,10 @@ I'm a CS student building a strong base in **C++** and **Python**, currently ste
 
 <br>
 
-## 🧭 &nbsp;Flight Log — Training & Education
+## 🧭 &nbsp;Flight Log — Training
 
 | Log Entry | Provider |
 |---|---|
-| 🎓 B.Sc. Computer Science | Damanhour University |
 | 🧠 Machine Learning for Data Analysis | National Telecommunication Institute (NTI) |
 | ⚡ Generative AI — Beginner (NVIDIA DLI) | ITI |
 | ⚡ Generative AI — Advanced: Building RAG Agents (NVIDIA DLI) | ITI |
