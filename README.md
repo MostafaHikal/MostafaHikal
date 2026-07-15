@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:134E4A,50:0F766E,100:2DD4BF&height=200&section=header&text=Mostafa%20Heikal&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:134E4A,50:0F766E,100:2DD4BF&height=200&section=header&text=Mostafa%20Heikal&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=90&lines=Machine+Learning+Engineer;NLP+%7C+LLMs+%7C+RAG+Systems;Building+Reliable+AI+Pipelines" alt="Typing SVG" />
 
