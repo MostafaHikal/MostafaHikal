@@ -54,6 +54,3 @@ I'm a Machine Learning Engineer focused on Natural Language Processing and large
 </table>
 
 </div>
-
-<br>
-
