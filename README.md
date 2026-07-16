@@ -56,10 +56,4 @@ I'm a Machine Learning Engineer focused on Natural Language Processing and large
 </div>
 
 <br>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=fastapi" width="48"/><br><sub><b>FastAPI</b></sub>
-</td>
-</tr>
-</table>
 
-</div>
